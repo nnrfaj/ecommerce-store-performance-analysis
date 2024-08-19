@@ -14,6 +14,12 @@ A Python script was developed with the help of ChatGPT and Claude (LLMs) to gene
 
 The script used probability distributions to create a dataset that mimics real-world e-commerce patterns.
 
+## Executive Summary
+
+Just want to know about the key insights and recommendations given. Then, below is a short version of the report that gets to the point quick.
+
+[**Executive Summary: SMACOP E-Commerce Performance Analysis**](https://docs.google.com/presentation/d/1DXyYzRJLiYXB19B1VCc0j_x2ELza8PYCwDntP-nhyPw/pub?start=true&loop=true&delayms=3000)
+
 ## Tools Used for Analysis
 
 The data analysis was carried out using the following tools.
