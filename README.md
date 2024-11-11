@@ -20,6 +20,12 @@ Just want to know about the key insights and recommendations given. Then, below 
 
 [**Executive Summary: SMACOP E-Commerce Performance Analysis**](https://docs.google.com/presentation/d/1DXyYzRJLiYXB19B1VCc0j_x2ELza8PYCwDntP-nhyPw/pub?start=true&loop=true&delayms=3000)
 
+## Tableau Dashboard
+
+[**Tableau Dashboard**](https://public.tableau.com/app/profile/adefajo.rasaq/viz/EcommercePerformanceAnalysis-RevenueDashboard/SalesDashboard)
+
+![tableau dashboard ecommerce revenue analysis](https://github.com/user-attachments/assets/ec03efd4-afb1-4a16-a0d7-79f0293cf4a1)
+
 ## Tools Used for Analysis
 
 The data analysis was carried out using the following tools.
@@ -189,3 +195,9 @@ Develop a strategy to boost performance in the Asian market, possibly through lo
 Prepare for increased demand during the holiday season (October-December) by ensuring adequate inventory and support staff.
 
 Consider running targeted campaigns or promotions in August to capitalize on the high sales volume.
+
+## Related - Power BI E-Commerce Dashboard
+
+[**Power BI E-Commerce Dashboard**](https://www.linkedin.com/posts/adefajo-rasaq_powerbi-dataanalytics-businessintelligence-activity-7261549832568258560-Yuer)
+
+![power bi ecommerce sales dashboard](https://github.com/user-attachments/assets/2896ec9a-7b65-4e66-82c4-ec3e34118451)
